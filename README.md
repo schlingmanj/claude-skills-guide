@@ -3,7 +3,7 @@
 
 A practical, interactive guide to building with Claude Skills at R365 — written for engineers, QA, designers, and PMs working in the 3-person pod model.
 
-**→ [View the live guide](https://yourusername.github.io/claude-skills-guide/)**
+**→ [View the live guide](https://schlingman.j.github.io/claude-skills-guide/)**
 
 ---
 
